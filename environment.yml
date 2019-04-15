@@ -1,0 +1,8 @@
+name: abtesting
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - jupyter
