@@ -8,6 +8,8 @@ The code goes through the result of an A/B test run by an e-commerce website. Th
 3. As an alternative method, we used stats.proportions_ztest to compute our test statistic and p-value.  
 4. We applied logistic regression using statsmodels to assess the significance of the involved variables for more deeper insights.   
 
+You can also access the notebook using nbviewer from here [Analyze_ab_test_results_notebook.ipynb](https://nbviewer.jupyter.org/github/jlcossi/analyse_ab_tests_results/blob/master/Analyze_ab_test_results_notebook.ipynb)   
+
 # Installation
 1. [Download and install Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html). I suggest Miniconda which is quick and easy
 
